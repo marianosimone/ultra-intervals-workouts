@@ -1,5 +1,6 @@
 Yoga Sequence to Full Lotus
 Inspired by Erica Tenggara's "Yoga Sequence to Lotus Pose"
+https://www.instagram.com/p/BGeEB-fqNvj/
 
 01:00  Wide knee child's pose
 01:00 Calf massage
