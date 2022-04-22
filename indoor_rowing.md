@@ -1,4 +1,4 @@
-Indoor Rowing Workout
+🚣🏽 Indoor Rowing Workout
 
 1x
 04:00 Easy rowing %green
