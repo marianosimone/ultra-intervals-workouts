@@ -10,4 +10,7 @@ Indoor Rowing Workout
 1x
 02:00 Easy rowing %green
 
+Beeps = Yes
+Say 321 = Yes
 Say durations = No
+Speech = Yes

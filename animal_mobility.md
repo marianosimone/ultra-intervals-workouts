@@ -1,4 +1,4 @@
-Animal Mobility
+Animal Mobility by Movement for Climbers
 [Mobility by Movement for Climbers](https://www.youtube.com/watch?v=TrdjEPAoktU)
 
 
@@ -8,16 +8,12 @@ Animal Mobility
 01:00 Orangutan Spin
 01:00 Lizard
 01:00 Crab hops
-01:00 Handstan walk
+01:00 Handstand walk
 01:00 Handstand scissors
 01:00 Inchworm
 01:00 Bridge rotations
 
-
-
-Settings:
-Language = English
-Speech = Yes
 Beeps = Yes
 Say 321 = Yes
 Say durations = No
+Speech = Yes

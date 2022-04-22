@@ -14,9 +14,7 @@ Fullbody Warmup
 00:40 Legs up
 01:00 Rest
 
-
-Speech = Yes
 Beeps = Yes
 Say 321 = Yes
-Color = Blue
-
+Say durations = No
+Speech = Yes

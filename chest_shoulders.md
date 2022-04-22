@@ -32,9 +32,7 @@ Chest & Shoulders
 00:20 Rest
 00:40 Alternating press
 
-Settings:
-Language = English
-Speech = Yes
 Beeps = Yes
 Say 321 = Yes
 Say durations = No
+Speech = Yes

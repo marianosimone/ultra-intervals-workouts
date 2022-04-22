@@ -17,9 +17,7 @@ Chloe Ting Abs
 00:50 Spiderman and cross plank
 00:50 High knees
 
-Settings:
-Language = English
-Speech = Yes
 Beeps = Yes
 Say 321 = Yes
 Say durations = No
+Speech = Yes

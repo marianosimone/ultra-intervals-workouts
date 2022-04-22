@@ -23,7 +23,7 @@
 00:45 Push-ups
 00:15 Rest
 
-Speech = Yes
 Beeps = Yes
 Say 321 = Yes
-Color = Blue
+Say durations = No
+Speech = Yes
