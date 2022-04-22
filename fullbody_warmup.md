@@ -1,4 +1,4 @@
-Fullbody Warmup
+💪🏽 Fullbody Warmup
 
 4x
 00:40 3 jumping jacks / 2 push-ups
