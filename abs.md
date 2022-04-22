@@ -1,4 +1,4 @@
-Chloe Ting Abs
+💪🏽 Chloe Ting Abs
 [10 Mins ABS Workout by Chloe Ting](https://www.youtube.com/watch?v=UBnfm4s7CRA)
 
 00:50 In and out
