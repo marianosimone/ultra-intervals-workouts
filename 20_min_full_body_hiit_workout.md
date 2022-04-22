@@ -1,4 +1,4 @@
-20 minute full body, HIIT workout
+💪🏽 20 minute full body, HIIT workout
 [20 MIN FULL BODY HOME WORKOUT - No Equipment by MadFit](https://www.youtube.com/watch?v=uZbig5yMlN8)
 
 2x
