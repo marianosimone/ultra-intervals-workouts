@@ -1,4 +1,4 @@
-Chest & Shoulders
+💪🏽 Chest & Shoulders
 [Chest & Shoulders by Caroline Girvan](https://youtu.be/c0XQs9aMWrA)
 
 3x
