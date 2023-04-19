@@ -4,12 +4,12 @@
 12x
 00:09 Pinch
 1x
-03:00 Rest
+02:30 Rest
 
 12x
 00:09 Pinch
 1x
-03:00 Rest
+02:30 Rest
 
 12x
 00:09 Pinch
