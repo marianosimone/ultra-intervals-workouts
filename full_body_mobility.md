@@ -1,5 +1,5 @@
 Ieva's Full Body Mobility
-[Unlock Full Body Mobility (if you can survive this one routine...)](https://www.youtube.com/watch?v=UBnfm4s7CRA)
+[Unlock Full Body Mobility (if you can survive this one routine...)](https://www.youtube.com/watch?v=dkNnTCD0LYI)
 
 00:30 Forearm Nerve Glide Left
 00:30 Forearm Nerve Glide Right
