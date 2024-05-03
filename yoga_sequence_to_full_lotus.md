@@ -28,8 +28,8 @@ Inspired by Erica Tenggara's "[Yoga Sequence to Lotus Pose](https://www.instagra
 01:00 Straight legs fold
 00:45 Soles together
 01:00 Straight legs fold
-02:30 Full lotus
 02:30 Frog
+02:30 Full lotus
 
 Beeps = Yes
 Say 321 = Yes
